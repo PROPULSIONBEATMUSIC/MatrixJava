@@ -51,7 +51,7 @@ class Main {
             System.out.println();
         }
 
-        System.out.println("\n Деление");
+        System.out.println("\n Деление ");
         for(int i = 0; i < C.length; i++) {
             for(int j = 0; j < C[i].length; j++) {
                 C[i][j] = A[i][j] / B[i][j];
